@@ -6,9 +6,7 @@
  */
 int main(void)
 {
-int num;
-for (num = 0; num < 10; num++)
-printf("%d", num);
-printf("\n");
+int num
+printf("with proper grammar, but the outcome is a piece of art,\n");
 return (0);
 }
