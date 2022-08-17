@@ -43,4 +43,4 @@ int is_visited(const listint_t *node, const listint_t **visited, int count)
 		i++;
 	}
 	return (0);
-
+}
